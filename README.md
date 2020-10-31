@@ -9,7 +9,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/aifa-faruque-2646b21b1 )
 
 
-<br /><br/>
+<br />
 
 ## Languages and Tools:
 

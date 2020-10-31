@@ -31,3 +31,8 @@
 <a href="https://github.com/aifa21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aifa21&theme=light&hide_langs_below=1" />
 </a>
+<br />
+<br />
+
+
+<img width="550" alt="aifa21's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=aifa21&show_icons=true"/>

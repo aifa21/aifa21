@@ -36,5 +36,3 @@
 
 
 <img width="550" alt="aifa21's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=aifa21&show_icons=true"/>
-<br/><br/>
-[![aifa21's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aifa21)](https://github.com/aifa21/github-readme-stats)
